@@ -1,6 +1,6 @@
-# G1R & G2R HoldToScrollUI Mod
+# G123R HoldToScrollUI Mod
 
-**v1.1.0** · by **WizzStar**
+**v3.0.1** · by **WizzStar**
 
 > Hold the D-pad in menus and keep scrolling. No more tapping through long lists — and it never messes with overworld movement or minigames. Fully compatible with **Gen1Recomp** (Red/Blue/Yellow) and **Gen2Recomp** (Gold/Silver/Crystal).
 
@@ -9,7 +9,7 @@
 ## ✨ Features
 - **Hold to Scroll** — Up / Down keeps moving the cursor after a short delay.
 - **Hold to Step** — Left / Right keeps changing option values.
-- **Full Gen 1 & Gen 2 Support** — Native compatibility enabled across Red, Blue, Yellow, Gold, Silver, and Crystal.
+- **Full Gen 1 2 3 Support** — Native compatibility enabled across Red, Blue, Yellow, Gold, Silver, and Crystal.
 - **Menus Only** — Overworld walking and movement are never affected.
 - **Minigame & Battle Protection** — Automatically bypassed in Slot Machine, Surfing, Unown Puzzle, Card Flip, and Battle Move Select screens.
 - **Zero-Lag Performance** — Optimized option caching and idle D-pad fast-exits for zero CPU overhead.
@@ -38,7 +38,7 @@
 ## 📦 Installation
 1. Download `wizzstar-hold-to-scroll-ui-1.1.0.zip`
 2. Open **Gen1Recomp** or **Gen2Recomp** → **MODS** → Enable mod
-3. Enjoy smooth scrolling across all Gen 1 & Gen 2 games!
+3. Enjoy smooth scrolling across all Gen 1 2 3 games!
 
 ## 💬 Support
 [GitHub Issues](https://github.com/WizzStar/PKMN-G1R-HoldToScrollUI-Mod/issues) · Discord `WizzStar`
