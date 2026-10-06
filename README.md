@@ -4,7 +4,7 @@
 
 > Hold the D-pad in menus and keep scrolling. No more tapping through long lists — and it never messes with overworld movement, main battle commands, or minigames. Fully compatible with **Gen1Recomp** (Red/Blue/Yellow), **Gen2Recomp** (Gold/Silver/Crystal), and **Gen 3** (FireRed/LeafGreen/Ruby/Sapphire/Emerald).
 
-**Repo:** [PKMN-G1R-HoldToScrollUI-Mod](https://github.com/WizzStar/PKMN-G1R-HoldToScrollUI-Mod)
+Repo: https://github.com/WizzStar/PKMN-G123R-HoldToScrollUI-Mod/edit/main/README.md
 
 ## ✨ Features
 - **Hold to Scroll** — Up / Down keeps moving the cursor after a short delay.
@@ -42,4 +42,5 @@
 3. Enjoy smooth scrolling across all Gen 1, 2, and 3 games!
 
 ## 💬 Support
-[GitHub Issues](https://github.com/WizzStar/PKMN-G1R-HoldToScrollUI-Mod/issues) · Discord `WizzStar`
+Issues:
+https://github.com/WizzStar/PKMN-G123R-HoldToScrollUI-Mod/issues
