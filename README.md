@@ -13,7 +13,7 @@ Repo: https://github.com/WizzStar/PKMN-G123R-HoldToScrollUI-Mod/edit/main/README
 - **Party & List Menus** — Smoothly scroll through your 6 Pokémon party, bag items, PC boxes, Pokédex, shops, and options (works in both overworld and in-battle party/bag menus!).
 - **Menus Only** — Overworld walking and character movement are never affected.
 - **Battle & Minigame Protection** — Automatically bypassed on the main battle command box (FIGHT / BAG / POKÉMON / RUN), move select, target select, YES/NO prompts, Slot Machines, Roulette, Berry Blender, Contests, Unown Puzzle, and cutscenes.
-- **Zero-Lag Performance** — Safe `pcall` execution, optimized option caching, and idle D-pad fast-exits for zero CPU overhead.
+- **Zero-Lag Performance** — Safe `pcall` execution, optimized option caching, and idle D-pad fast-exits for zero CPU overheat.
 - **Works with Other Mods** — Any custom UI using standard input polling or ListMenu engine hooks works out of the box.
 - **Speed Ladder** — REPEAT SPEED **1–5** (default **3** = tuned feel).
 - **Hold Delay** — Tweak initial frame delay before auto-repeat kicks in.
