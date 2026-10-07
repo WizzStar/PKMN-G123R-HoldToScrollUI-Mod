@@ -11,7 +11,7 @@
 - **Gen 3 Menus** — Party, Bag, PC boxes / items / Mail, Pokédex, Shops, Options, and the Bag / Party opened from battle.
 - **Menus Only** — Overworld walking and movement are never affected.
 - **Minigame & Battle Protection** — Never repeats on the battle command box (FIGHT / BAG / POKéMON / RUN), move select, or YES / NO prompts. Also skips Slot Machine, Roulette, Berry Blender, Contests, Surfing, Unown Puzzle, and Card Flip.
-- **Zero-Lag Performance** — Optimized option caching and idle D-pad fast-exits for zero CPU overhead.
+- **Zero-Lag Performance** — Optimized option caching and idle D-pad fast-exits for zero CPU overheat.
 - **Works with Other Mods** — Any UI using standard input polling or ListMenu engine hooks works out of the box.
 - **Speed Ladder** — REPEAT SPEED **1–5** (default **3** = tuned feel).
 - **Hold Delay** — Tweak initial frame delay before auto-repeat kicks in.
