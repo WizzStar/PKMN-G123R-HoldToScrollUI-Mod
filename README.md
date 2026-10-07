@@ -40,4 +40,4 @@
 3. Enjoy smooth scrolling across all Gen 1, Gen 2 & Gen 3 games!
 
 ## 💬 Support
-[GitHub Issues](https://github.com/WizzStar/PKMN-G123R-Turbo_Scroll-Mod/issues)
+[GitHub Issues](https://github.com/WizzStar/PKMN-G123R-Turbo-Scroll-Mod/issues)
