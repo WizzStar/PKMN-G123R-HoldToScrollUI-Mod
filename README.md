@@ -4,8 +4,6 @@
 
 > Hold the D-pad in menus and keep scrolling. No more tapping through long lists — and it never messes with overworld movement or minigames. Fully compatible with **Gen1Recomp** (Red/Blue/Yellow), **Gen2Recomp** (Gold/Silver/Crystal) and **Gen 3** (FireRed/LeafGreen/Ruby/Sapphire/Emerald).
 
-**Repo:** [PKMN-G123R-Turbo_Scroll-Mod]([https://github.com/WizzStar/PKMN-G123R-Turbo_Scroll-Mod](https://github.com/WizzStar/PKMN-G123R-Turbo-Scroll-Mod/tree/main))
-
 ## ✨ Features
 - **Hold to Scroll** — Up / Down keeps moving the cursor after a short delay.
 - **Hold to Step** — Left / Right keeps changing option values.
