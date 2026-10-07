@@ -1,4 +1,4 @@
-# G123R Turbo_Scroll Mod
+# G123R Turbo Scroll Mod
 
 **v3.0.1** · by **WizzStar**
 
